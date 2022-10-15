@@ -4,7 +4,7 @@ title:  "Η Κέρκυρα ως Τουριστικός Προορισμός"
 date:   2022-10-15 00:00:00 +0000
 categories: jekyll
 ---
-![Το λιμάνι της Κέρκυρας Από Ψηλά](/assets/images/start-page.png)
+![Το λιμάνι της Κέρκυρας Από Ψηλά](../assets/images/start-page.png)
 
 <img src="../assets/images/corfu-port.png">
 
