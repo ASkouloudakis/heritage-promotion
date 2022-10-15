@@ -4,7 +4,8 @@
 
 layout: home
 ---
-![Το λιμάνι της Κέρκυρας Από Ψηλά](/assets/images/start-page.png)
+<img src="/assets/images/start-page.png" width="1200" height="300">
+
 
 #### **Σκοποί Ενασχόλησης με το μάθημα 'Εργαλεία Προβολής Τουριστικού Ενδιαφέροντος'**
 
