@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
 ---
-This is a test
+<h2>Σκοποί Ενασχόλησης με το μάθημα 'Εργαλεία Προβολής Τουριστικού Ενδιαφέροντος'</h2>
