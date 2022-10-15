@@ -4,8 +4,8 @@
 
 layout: home
 ---
-<img src="/assets/images/start-page.png" width="1200" height="300">
 
+![](/assets/images/start-page.png)
 
 #### **Σκοποί Ενασχόλησης με το μάθημα 'Εργαλεία Προβολής Τουριστικού Ενδιαφέροντος'**
 
