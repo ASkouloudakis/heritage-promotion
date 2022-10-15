@@ -5,7 +5,7 @@ date:   2022-10-15 00:00:00 +0000
 categories: jekyll
 ---
 
-<img src="../assets/images/corfu-port.png">
+<img src="heritage-promotion/assets/images/corfu-port.png">
 
 Το λιμάνι της Κέρκυρας Από Ψηλά
 
