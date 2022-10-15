@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Το λιμάνι της Κέρκυρας Από Ψηλά](/assets/images/corfu-port.jpg.jpg "Corfu Port")
+![Το λιμάνι της Κέρκυρας Από Ψηλά](/assets/images/corfu-port.jpg "Corfu Port")
 
 #### **Σκοποί Ενασχόλησης με το μάθημα 'Εργαλεία Προβολής Τουριστικού Ενδιαφέροντος'**
 
