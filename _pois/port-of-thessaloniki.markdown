@@ -1,7 +1,6 @@
 ---
 layout: poi
 wikidatum: Q7231282
-title:  Λιμάνι Θεσσαλονίκης
 title:  Θεσσαλονίκη
 ---
 
