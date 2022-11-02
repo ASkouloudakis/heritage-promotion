@@ -1,7 +1,7 @@
 ---
 layout: poi
-wikidatum: Q121378
-title:  Κέρκυρα_old
+wikidatum: Q17023114
+title:  Ελληνικά Λιμάνια
 ---
 
 Sample text
