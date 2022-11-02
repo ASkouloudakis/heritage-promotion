@@ -5,6 +5,8 @@ permalink: /pois/
 
 ---
 
+![](/assets/images/start-page.png)
+
 <ul>
   {% for p in site.pois %}
     <li>
