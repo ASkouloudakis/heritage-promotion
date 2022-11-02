@@ -1,6 +1,6 @@
 ---
 layout: poi
-wikidatum: Q25166594
+wikidatum: Q3555526
 title:  Πορτοχέλι
 ---
 
