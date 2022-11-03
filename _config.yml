@@ -22,9 +22,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-#github_username:  Askouloudakis
+github_username:  Askouloudakis
 facebook_username: Askouloudakis
-instagram_username: spu4894
+instagram_username: skafritsas
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
