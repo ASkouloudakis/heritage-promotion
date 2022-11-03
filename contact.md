@@ -3,8 +3,6 @@ layout: page
 title: Επικοινωνία
 permalink: /contact/
 ---
-![c](https://user-images.githubusercontent.com/103204779/199727246-7736ab9f-5a4a-4c10-9da2-1a95c4fdadbe.PNG)
-
 
 
 ***Απόστολος Σκουλoυδάκης***
