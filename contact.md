@@ -14,7 +14,9 @@ permalink: /contact/
 
 Διεύθυνση: Μεσογείων 415 - 417, Αγ. Παρασκευή 153 43.
 
+
 ---
+
 ***Σπυρίδων Καφρίτσας***
 
 ![s](https://user-images.githubusercontent.com/103204779/199726716-e72f4bbc-de5e-47fb-99bf-cf74140406af.PNG)
