@@ -3,5 +3,8 @@
   .feature-img: {
     max-width: 100%;
   }
-  background: url('{{ 'assets/images/shapelined-_JBKdviweXI-unsplash.jpg' | relative_url }}');
+}
+
+.hero {
+  background: url('assets/images/shapelined-_JBKdviweXI-unsplash.jpg');
 }
