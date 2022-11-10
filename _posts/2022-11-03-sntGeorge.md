@@ -12,11 +12,11 @@ categories: jekyll
 
 Πηγή: [Υπουργείο Πολιτισμού και Αθλητισμού](http://odysseus.culture.gr/h/3/gh3530.jsp?obj_id=954).
 
-![Άγιος Γεώργιος](https://user-images.githubusercontent.com/103204634/201211102-df72a299-1e46-413d-925c-b773f896de48.jpg)
+<img src="https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/snt_George_Joanbanjo.jpg" data-canonical-src="https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/snt_George_Joanbanjo.jpg" width="400" height="400" />
 
 Άγιος Γεώργιος - Φωτογραφία: Joanbanjo - CC BY-SA 3.0
 
-![Παλαιό Φρούριο Κέρκυρα](https://user-images.githubusercontent.com/103204634/201211196-a74d00fe-0f6d-4ba0-b128-564bd621be51.jpg)
+<img src="https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/Kerkyrapalaiofrourio_Dr_K.jpg" data-canonical-src="https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/Kerkyrapalaiofrourio_Dr_K.jpg" width="400" height="400" />
 
 Παλαιό Φρούριο Κέρκυρα - Φωτογραφία: Dr.K. - CC BY-SA 3.0
 
