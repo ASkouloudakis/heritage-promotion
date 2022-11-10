@@ -30,6 +30,9 @@ facebook_username: portsTourism
 instagram_username: skafritsas
 twitter_username: skafritsas
 
+#Facebook Sharing
+facebook_app_id: 112288558351354
+
 # Build settings
 markdown: kramdown
 # remote_theme: pages-themes/architect@v0.2.0
