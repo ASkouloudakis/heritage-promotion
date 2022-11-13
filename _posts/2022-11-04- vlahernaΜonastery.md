@@ -2,6 +2,7 @@
 layout: post
 title:  "Η Κυρία της Βλαχέρνας - Κέρκυρα"
 date:   2022-11-04 00:00:01 +0000
+header-img: "https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/vlaherna-monastery-g70ee135df_1920.jpg"
 categories: jekyll
 ---
 Στο κοσμοπολίτικο Κανόνι, νότια της πόλης της Κέρκυρας, βρίσκεται η  [Ιερά Μονή Βλαχερνών](https://www.youtube.com/watch?v=Fue6I55_6wo). Η Ιερά Μονή χτίστηκε κατά τον 17ο αιώνα και απέχει μόλις 300 μέτρα από την κοντινή ακτή.
