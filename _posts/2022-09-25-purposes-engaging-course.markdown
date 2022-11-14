@@ -2,6 +2,7 @@
 layout: post
 title:  "Η Κέρκυρα ως Τουριστικός Προορισμός"
 date:   2022-09-25 10:30:00 +0000
+header-img: "https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/Kerkyra_Agios_Spiridwn.jpg"
 categories: jekyll
 ---
 Η Κέρκυρα, τo νησί των Φαιάκων είναι το τρίτο σε αφίξεις κρουαζιεροπλοίων, μετά από τον Πειραιά και τη Μύκονο.  Τα πρώτα κρουαζιερόπλοια καταφτάνουν στο λιμάνι του νησιού δίνοντας ελπίδες για μία κερδοφόρα τουριστική σεζόν.
