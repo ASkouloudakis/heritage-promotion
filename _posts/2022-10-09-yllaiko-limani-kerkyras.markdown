@@ -2,6 +2,7 @@
 layout: post
 title:  "Υλλαϊκό λιμάνι"
 date:   2022-10-09 00:00:00 +0000
+header-img: "https://raw.githubusercontent.com/ASkouloudakis/heritage-promotion/master/assets/images/illaiko-limani.jpg"
 categories: jekyll
 ---
 Το αρχαίο Υλλαϊκό λιμάνι των Κερκυραίων.
